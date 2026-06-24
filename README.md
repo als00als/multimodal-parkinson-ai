@@ -155,4 +155,4 @@ streamlit run app.py
 
 ## 📬 Contact
 
-**김수민** · maristella0625@gmail.com
+**김수민** · k.soomin625@gmail.com
